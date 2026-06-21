@@ -1,4 +1,94 @@
-Voici la grande épopée musicale, humaine et technologique de nos trois protagonistes : la virtuose **Violoniste** (basée en France), et le couple d'influenceurs excentriques, **Mme et Mr Classical Pop** (basés aux États-Unis).
+Voici l'épopée musicale et numérique de nos trois protagonistes : **la Violoniste**, **Mme Classical Pop**, et **Mr Classical Pop**.
+
+---
+
+## Première partie : Les Chroniques de l'Aube – Découverte et Rencontres
+
+L'aventure commence précisément à l'aube, au moment où la lumière blafarde du matin éveille les ambitions.
+
+### Le Réveil des Vocations
+
+Dans sa routine quotidienne (**dusk-till-dawn**), un assistant domotique allume une lampe dès le matin pour signaler qu'il est temps de partir à l'aventure. Une douce mélodie résonne : *"I want to be indie, I want to be cool"*. En France, **la Violoniste** se prépare. Avant de se consacrer pleinement à son art, elle passe un test pour devenir gendarme (**gendarmes**). Pour garder la forme et affronter le monde, elle se bat contre le jeu (**bats-contre-le-jeu**) et s'inspire de citations de sportifs célèbres (**that-basketball-kid**).
+
+Se lançant dans une véritable expédition urbaine (**city-expedition**), elle se comporte comme un oiseau du matin, hackant symboliquement sa ville d'origine grâce aux transports en commun de l'aube au crépuscule. Pour se protéger en ligne, elle crée un web-crawler à son image, programmé selon ses goûts musicaux. Elle décide de quitter son foyer (**out-of-home**), observant les affichages publicitaires sur les bus, munie d'une fausse carte d'identité et d'un faux job de couverture.
+
+### Le Croisement des Destins (USA)
+
+Pendant ce temps, de l'autre côté de l'Atlantique, aux USA, habitent **Mme et Mr Classical Pop**. C'est le moment critique du **music-at-first-sight** : la Violoniste, en voyage d'étude, croise le couple dans le même couloir d'un grand bâtiment américain. Ils se croisent sans se rencontrer vraiment. L'interaction est théâtrale, presque explosive, à coup de bombes à eau lancées de manière espiègle, laissant une empreinte musicale indélébile dans l'esprit de chacun.
+
+### Le Grand Domaine
+
+De retour en France, la Violoniste se réfugie dans un grand domaine historique (**discover-domain-music**). Munie de son GPS, elle y découvre les secrets du réseau informatique du lieu, explore des partitions complexes et ajuste la tension de son archet de violon.
+
+> **Le Grand Tournant :** C'est à cet instant précis, à l'aube, que le destin s'accélère. Les trois personnages — la Violoniste, Mme, et Mr Classical Pop — doivent signer un pacte virtuel pour quitter définitivement leurs foyers respectifs et s'engager vers le **"Pays de la Musique"**, un territoire imaginaire et mystique où les lois physiques sont remplacées par des lignes de partitions.
+
+---
+
+## Deuxième partie : L'Échappée Transatlantique et les Tensions Célèbres
+
+Le voyage commence par un aller-retour intense entre la France et l'étranger, étalé sur une à dos d'années.
+
+### Racines Humbles et Identités Multiples
+
+Ils s'installent d'abord dans des habitations modestes appelées "Crevé-Cœur" (**heartbreaking-housing**). Là, ils côtoient des métiers simples — boulangers, jardiniers, potiers — dont les gestes nourrissent leur inspiration. Le voyage les mène le long des côtes maritimes, intégrant les bruits des vagues et des ports à leurs compositions.
+
+Pour survivre dans l'industrie, ils utilisent un tracker de nuit (**disco-tracker**) en France, réinventant complètement leurs personnalités : une nationalité différente le jour, un style purement disco la nuit, changeant même leurs plats préférés selon le rythme des hits.
+
+```
++------------------+---------------------------+-------------------------+
+| Personnage       | Identité Diurne           | Identité Nocturne       |
++------------------+---------------------------+-------------------------+
+| La Violoniste    | Gendarme / Classique      | Virtuose Cyber-Punk     |
+| Le Couple Pop    | Bourgeois Américains      | Influenceurs Théâtraux  |
++------------------+---------------------------+-------------------------+
+
+```
+
+### Le Conflit Géopolitique du Salon (**special-giggle**)
+
+À l'étranger, **Mme et Mr Classical Pop** se transforment en un couple d'influenceurs redoutables issus d'une prestigieuse école de musique. Leur relation est intense, dramatique. Ils cherchent à *« tirailler le cœur »* de tous ceux qui ne partagent pas leur dévotion artistique. Le conflit émotionnel au sein de leur foyer prend une dimension presque géopolitique :
+
+* Ils organisent un faux discours à l'ONU, déclamé en plusieurs langues étrangères, pour tenter d'apaiser leurs querelles de couple.
+* Ils se disputent symboliquement avec d'autres pays, transformant leur propre salon en un **Bureau Ovale** miniature, prétendant être l'horloge politique et culturelle du quartier.
+* **Mme Classical Pop**, quant à elle, travaille en chœur exclusif avec d'autres artistes féminines, créant une tension compétitive acharnée.
+
+### Blogueurs en Cavale
+
+Ils documentent tout. Via un blog urbain (**city-blogger**), ils écrivent sur leurs instruments et leurs moyens de transport. Ils basculent dans une aventure permanente (**out-of-the-morning-adventure**), guidés par la météo et une IA locale. Ils convertissent leurs maquettes via **yt-mp3** et lancent la **tournee-coeur-ouvert** pour secouer le public jusqu'à ce qu'il aime le classique.
+
+Leur quotidien devient une lutte sur la route (**road-struggle-story**). Les "Classical Pop Buddies" et la Violoniste voyagent dans un van délabré, partageant l'épuisement des fins de mois difficiles, adoptant un état d'esprit de hacker-musicien (**musician-mindset**) face aux contrôles douaniers stricts (**musical-border-control**).
+
+---
+
+## Troisième partie : L'Exil Acoustique et les Rumeurs d'État
+
+Cette longue période à l'étranger s'avère la plus sombre et la plus complexe. Le groupe subit la pression de l'anonymat et de la paranoïa.
+
+### Le Jeu Intérieur de la Musique
+
+Pour tenir le coup, la Violoniste tient un journal de bord anonyme (**bulletproof-anonymous**) où elle planifie ses sessions d'entraînement intensives. Sur son blog, elle publie des articles sur le *« inner game »* de la musique (**mon-musicien-pareballes**). Elle utilise Lilypond (**stage-score**) pour générer ses partitions et pousse le vice jusqu'à étudier les langages informatiques sécurisés utilisés par la **nasa**.
+
+Le trio voyage avec ses instruments (**musical-instrument-travel**), participe à des compétitions d'endurance (**sport-competition**) et la Violoniste devient une véritable sprinteuse du violon (**runner-fiddle**), enchaînant des morceaux d'une difficulté athlétique de capitale en capitale.
+
+### L'Usine du Prestige
+
+**Mme et Mr Classical Pop** s'allient à elle sur Rails (**mme-m-classical-pop**). Leurs valises de diplomates contiennent des accessoires connectés mesurés en unités internationales (**travel-job-accessories**). Ils entrent dans la **pop-classic-factory**, gérant des comptes secrets (@weArefakesocialaccount) sous de faux noms pour masquer les coulisses de leur gloire (**behind-scenes**).
+
+Partout à l'étranger, le visage de la Violoniste est placardé sur les murs (**out-of-home-face**). Elle pirate des partitions en direct pour saboter des concerts concurrents (**score-live-concerto**), étudie la résonance de son instrument (**violin-study**) et s'inscrit comme interprète aux Nations Unies (**un-interpreter**). Sur l'**echo-stage**, propulsé par des profils générés par IA, ils deviennent des *World Class Performers*. Le violon de la Violoniste se transforme en un capteur sensitif, un véritable **diapason-crystal** explorant les lieux invisibles.
+
+### La République de l'Amour Cruel
+
+Ils finissent par basculer dans la **republic-of-music**, un territoire sans frontières géré par les émotions, devenant les tyrans bienveillants des sentiments de leur public. Connectés par leurs téléphones portables comme un orchestre numérique (**supreme-symphony**), chaque requête HTTP qu'ils envoient devient une note de musique.
+
+C'est alors qu'intervient l'anomalie (**bookish-cruel-love**). Devant un stand de brocante, une vidéo générée par une IA ouvre une faille vers un monde parallèle : un parc d'attractions américain déformé. Ce portail les connecte à la *République de l'Amour Cruel*, un univers calqué sur la pop culture des USA où le couple "Monsieur et Madame Parfait" (**Mr et Mme Classical Pop**) utilise la musique classique comme une arme brute pour remodeler les consciences de leur audience.
+
+### Le Final : Les Rumeurs du Bureau Ovale Français
+
+L'histoire se clôture par un retour technologique et politique en France à travers la **symphonie-foyers**. Tout le monde se met à coder en Symfony/PHP pour alimenter la partition numérique de la nation, sous la direction d'un mystérieux *Chef d'Orchestre* qui gère le réseau et propage des consignes secrètes.
+
+À cause de failles de sécurité et de bavardages interceptés (**gossip-security**), des rumeurs massives commencent à enfler dans les rues. Ces bruits de couloir, colportés par le protocole de la symphonie, affirment qu'un album révolutionnaire et secret va détruire les codes de la musique pop. La tension est telle que les murmures quittent les salons de musique pour atterrir directement sur le bureau du Chef de l'État, au sein même du **Bureau Ovale de la République Française** (l'Élysée).
+
+L'histoire s'achève sur un dernier éclat de rire théâtral et ironique de **Mme et Mr Classical Pop** (**special-giggle**), fiers d'avoir transformé l'industrie musicale et la haute diplomatie en leur propre opéra privé.Voici la grande épopée musicale, humaine et technologique de nos trois protagonistes : la virtuose **Violoniste** (basée en France), et le couple d'influenceurs excentriques, **Mme et Mr Classical Pop** (basés aux États-Unis).
 
 ---
 
