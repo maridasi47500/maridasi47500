@@ -56,7 +56,8 @@ Ils documentent tout. Via un blog urbain (**city-blogger**), ils écrivent sur l
 Leur quotidien devient une lutte sur la route (**road-struggle-story**). Les "Classical Pop Buddies" et la Violoniste voyagent dans un van délabré, partageant l'épuisement des fins de mois difficiles, adoptant un état d'esprit de hacker-musicien (**musician-mindset**) face aux contrôles douaniers stricts (**musical-border-control**).
 
 ### Le Conflit Géopolitique du Salon (**special-giggle**)
-apres cette periode , mme classical pop veut se rendre dans le oays de la musique mais a letranger, et sen suit une periode difficile.
+apres cette periode , la violoniste veut se rendre au oays de la musique pour prendre ses distances et une pause des aventures mais mme classical pop veulent la rejoindre a letranger, et sen suit une periode difficile.
+mme classical pop veur accueilir des musiciens dans son pays (le pays de la musique) et trouve un premier job au bureau daccueil.
 À l'étranger, **Mme et Mr Classical Pop** se transforment en un couple d'influenceurs redoutables issus d'une prestigieuse école de musique. Leur relation est intense, dramatique. Ils cherchent à *« tirailler le cœur »* de tous ceux qui ne partagent pas leur dévotion artistique. Le conflit émotionnel au sein de leur foyer prend une dimension presque géopolitique :
 
 * la musicienne organisent un faux discours à l'ONU, déclamé en plusieurs langues étrangères, pour tenter d'apaiser leurs querelles.
