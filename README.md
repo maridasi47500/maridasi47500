@@ -85,9 +85,13 @@ apres cette periode , la violoniste veut se rendre au pays de la musique pour pr
 
 
 a letranger, mme classical pop veut accueilir des musiciens dans son pays (le pays de la musique) et trouve un premier job au bureau daccueil.
- mme classical pop cree un amazon cae ou elle veut Text Sentiment & Gender Reference Analyzer pour tout ce qu'elle voit que les gens postent sur les reseau.
+ mme classical pop cree un **amazon-cafe** ou elle veut Text Sentiment & Gender Reference Analyzer pour tout ce qu'elle voit que les gens postent sur les reseau.
 À l'étranger, **Mme et Mr Classical Pop** se transforment en un couple d'influenceurs redoutables issus d'une prestigieuse école de musique. Leur relation est intense, dramatique. Ils cherchent à *« tirailler le cœur »* de tous ceux qui ne partagent pas leur dévotion artistique. Le conflit émotionnel au sein de leur foyer prend une dimension presque géopolitique :
-a letranger , mme musicienne conserve un **code-cookbook** mais elle l'utilise tres peu.
+a letranger , mme musicienne conserve un **code-cookbook** mais elle l'utilise tres peu.(**network-program-recipes**)
+a l'etranger, mme classical pop conserve ses requetes de recherche sur internet et "fait un tour du monde" sur internet autant quelle voudrait avoir plus dinfluence dans sa region.
+a letranger mme musicienne toent un cookbook de llm ou ai.
+a l'etranger mme classical pop tient un **bullet-blog** public sur la musique, son carnet perso piur la musique (**bulletproof-anonymous**) et une formation de musique (**beyond-practicing-buro**)
+
 * la musicienne organisent un faux discours à l'ONU, déclamé en plusieurs langues étrangères, pour tenter d'apaiser leurs querelles.
 * Ils se disputent symboliquement avec d'autres pays, transformant leur propre salon en un **Bureau Ovale** miniature, prétendant être l'horloge politique et culturelle du quartier.
 * **Mme Classical Pop**, quant à elle, travaille en chœur exclusif avec d'autres artistes féminines, créant une tension compétitive acharnée.
