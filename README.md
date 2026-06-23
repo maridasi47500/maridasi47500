@@ -26,8 +26,12 @@ Tres tot, la Violoniste,mme et me classical pop prennent le bateau ensemble (**o
 ### Le Réveil des Vocations
  tres tot, **mme classical pop** se revele etre **half-a-medium**.
 Dans sa routine quotidienne (**dusk-till-dawn**), un assistant domotique allume une lampe dès le matin pour signaler qu'il est temps de partir à l'aventure. Une douce mélodie résonne : *"I want to be indie, I want to be cool"*. En France, **la Violoniste** se prépare. Avant de se consacrer pleinement à son art, elle passe un test pour devenir gendarme (**gendarmes**). Pour garder la forme et affronter le monde, elle se bat contre le jeu (**bats-contre-le-jeu**) et s'inspire de citations de sportifs célèbres (**that-basketball-kid**).
+mr classical pop veut rester connected a travers les reseaux sociaux (rails-browser-browse).
+mr classical pop publie dans potential invention verse.
 
+mme musicienne bookmark ce que elle aimes, epingle le dans la page d'accueil, recois/envoie sms/appel telephonique/email de tes bookmarks (moments partagés en photo, art local, repas partagés).
 Se lançant dans une véritable expédition urbaine (**city-expedition**), elle se comporte comme un oiseau du matin, hackant symboliquement sa ville d'origine grâce aux transports en commun de l'aube au crépuscule. Pour se protéger en ligne, elle crée un web-crawler à son image, programmé selon ses goûts musicaux. Elle décide de quitter son foyer (**out-of-home**), observant les affichages publicitaires sur les bus, munie d'une fausse carte d'identité et d'un faux job de couverture.
+Pour survivre dans l'industrie, ils utilisent un tracker de nuit (**disco-tracker**) en France, réinventant complètement leurs personnalités : une nationalité différente le jour, un style purement disco la nuit, changeant même leurs plats préférés selon le rythme des hits. mme et mr classical pop publie ai-digital-guide-partying.
 
 
 ### Le Grand Domaine
@@ -52,7 +56,7 @@ Le voyage commence par un aller-retour intense entre la France et l'étranger, �
 
 mme et mr classical pop sont venus chercher la violoniste jusqua son domicile a laube avant de commencer laventure. Ils s'installent d'abord dans des habitations modestes appelées "Crevé-Cœur" (**heartbreaking-housing**). Là, ils côtoient des métiers simples — boulangers, jardiniers, potiers — dont les gestes nourrissent leur inspiration. Le voyage les mène le long des côtes maritimes, intégrant les bruits des vagues et des ports à leurs compositions.
 
-Pour survivre dans l'industrie, ils utilisent un tracker de nuit (**disco-tracker**) en France, réinventant complètement leurs personnalités : une nationalité différente le jour, un style purement disco la nuit, changeant même leurs plats préférés selon le rythme des hits.
+
 
 ```
 +------------------+---------------------------+-------------------------+
@@ -79,12 +83,16 @@ Leur quotidien devient une lutte sur la route (**road-struggle-story**). Les "Cl
 ### break
 
 la il y a comme un break. la musicienne pendant un jeu essaie de trouver dautres personnes (elle passe du temps avec **mme classical** (quelquun qui nest pas dans lhistoire)). elle rencontre un developpeur rails qui traverse les villes comme les saisons de vivaldi et transporte aveclui l'hologramme d'une pop star, mais elle croise son chemin seulement.
+aux usa, mme classical pop doit, quand tu as plus de 18 ans, bookmark ce quetu aime/aimes pas qui vient du monde entier avec dautres amies.
+
 
 ### Le Conflit Géopolitique du Salon (**special-giggle**)
 apres cette periode , la violoniste veut se rendre au pays de la musique pour prendre ses distances et une pause des aventures mais mme classical pop veulent la rejoindre a letranger, et sen suit une periode difficile.
+au debut, mme musicienne tient un social-media-cook-book pour comprendre ce qui se passe syr les reseaux sociaux.
 
 
-a letranger, mme classical pop veut accueilir des musiciens dans son pays (le pays de la musique) et trouve un premier job au bureau daccueil.
+a letranger, mme classical pop veut accueilir des musiciens dans son pays (le pays de la musique) et trouve un premier job au bureau daccueil. mme classical pop cree une serie fake sms email, postcard, social media acount, letter, etc, in foreign/not foreign language pour de preparer a deranger le quartier (i18n-fake-sms).
+
  mme classical pop cree un **amazon-cafe** ou elle veut Text Sentiment & Gender Reference Analyzer pour tout ce qu'elle voit que les gens postent sur les reseau.
 À l'étranger, **Mme et Mr Classical Pop** se transforment en un couple d'influenceurs redoutables issus d'une prestigieuse école de musique. Leur relation est intense, dramatique. Ils cherchent à *« tirailler le cœur »* de tous ceux qui ne partagent pas leur dévotion artistique. Le conflit émotionnel au sein de leur foyer prend une dimension presque géopolitique :
 a letranger , mme musicienne conserve un **code-cookbook** mais elle l'utilise tres peu.(**network-program-recipes**)
