@@ -60,9 +60,14 @@ Pour survivre dans l'industrie, ils utilisent un tracker de nuit (**disco-tracke
 
 ```
 ### Blogueurs en Cavale
+
+
+> **Le Grand Tournant :** C'est à cet instant précis, à l'aube, que le destin s'accélère. Les trois personnages — la Violoniste, Mme, et Mr Classical Pop — doivent signer un pacte virtuel pour quitter définitivement leurs foyers respectifs et s'engager vers le **"Pays de la Musique"**, un territoire imaginaire et mystique où les lois physiques sont remplacées par des lignes de partitions, et les transports en communs sont collectifs.
+> 
 C'est alors qu'intervient l'anomalie (**bookish-cruel-love**). Devant un stand de brocante en France, une vidéo générée par une IA ouvre une faille vers un monde parallèle : un parc d'attractions américain déformé. Ce portail les connecte à la *République de l'Amour Cruel*, un univers calqué sur la pop culture des USA où le couple "Monsieur et Madame Parfait" (**Mr et Mme Classical Pop**) utilise la musique classique comme une arme brute pour remodeler les consciences de leur audience.
 
-
+**mme et mr classical pop** commencent par sinscrire a lecole de musique locale et diffuser des rumeurs comme quoi apprendre a se connaitre est long parfois. cest leur premiere tentative de se rendre bien sur scene (**performing-arts**, **make-up-faker**)
+Ensuite commence le voyage en train/bus pour quoi ils ont "signé".
 Ils documentent tout. Via un blog urbain (**city-blogger**), ils écrivent sur leurs instruments et leurs moyens de transport. Ils basculent dans une aventure permanente (**out-of-the-morning-adventure**), guidés par la météo et une IA locale. Ils convertissent leurs maquettes via **yt-mp3** et lancent la **tournee-coeur-ouvert** pour secouer le public jusqu'à ce qu'il aime le classique.
 
 Leur quotidien devient une lutte sur la route (**road-struggle-story**). Les "Classical Pop Buddies" et la Violoniste voyagent dans un van délabré, partageant l'épuisement des fins de mois difficiles, adoptant un état d'esprit de hacker-musicien (**musician-mindset**) face aux contrôles douaniers stricts (**musical-border-control**).
