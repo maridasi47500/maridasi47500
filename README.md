@@ -87,7 +87,7 @@ apres cette periode , la violoniste veut se rendre au pays de la musique pour pr
 a letranger, mme classical pop veut accueilir des musiciens dans son pays (le pays de la musique) et trouve un premier job au bureau daccueil.
  mme classical pop cree un amazon cae ou elle veut Text Sentiment & Gender Reference Analyzer pour tout ce qu'elle voit que les gens postent sur les reseau.
 À l'étranger, **Mme et Mr Classical Pop** se transforment en un couple d'influenceurs redoutables issus d'une prestigieuse école de musique. Leur relation est intense, dramatique. Ils cherchent à *« tirailler le cœur »* de tous ceux qui ne partagent pas leur dévotion artistique. Le conflit émotionnel au sein de leur foyer prend une dimension presque géopolitique :
-
+a letranger , mme musicienne conserve un **code-cookbook** mais elle l'utilise tres peu.
 * la musicienne organisent un faux discours à l'ONU, déclamé en plusieurs langues étrangères, pour tenter d'apaiser leurs querelles.
 * Ils se disputent symboliquement avec d'autres pays, transformant leur propre salon en un **Bureau Ovale** miniature, prétendant être l'horloge politique et culturelle du quartier.
 * **Mme Classical Pop**, quant à elle, travaille en chœur exclusif avec d'autres artistes féminines, créant une tension compétitive acharnée.
@@ -142,6 +142,6 @@ L'histoire se clôture par un retour technologique et politique en France à tra
 L'histoire s'achève sur un dernier éclat de rire théâtral et ironique de **Mme et Mr Classical Pop** (**special-giggle**), fiers d'avoir transformé l'industrie musicale et la haute diplomatie en leur propre opéra privé. la virtuose **Violoniste** (basée en France), et le couple d'influenceurs excentriques, **Mme et Mr Classical Pop** (basés aux États-Unis)sont reunis en France.
 
 une fois toutes les histoires terminees, la musicienne utilise **alexa-python-pour-jouer** avant de quitter le pays de la musique et commencer a jouer de la musique soi meme.
-
+cest une sorte de capsule temporelle : quisait qui sera celle-celui qui pourra apprendre les bases du reseau et reconstituer le reseau de personnes (**networking-network**)
 
 ---
