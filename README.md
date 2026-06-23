@@ -121,7 +121,9 @@ dans le pays de la musique, **mme classical pop** se prépare. Avant de se consa
 
 Ils finissent par basculer dans la **republic-of-music**, un territoire sans frontières géré par les émotions, devenant les tyrans bienveillants des sentiments de leur public. Connectés par leurs téléphones portables comme un orchestre numérique (**supreme-symphony**), chaque requête HTTP qu'ils envoient devient une note de musique, chaque trajet un raccourci de Apple.
 mme classical pop utilise la master-connection pour localiser un telephone.
-
+mr classical pop utilise **cyber-hacker** pour savoir si ses videos ont un bon commentaire.
+mme classical pop commence a envoyer des series de **spoof-messages**  et a connaitre de la **physical-security** et de la **cyber-security**. elle poste dans **bulletproof-job**, **hacker-magazine** et **mycybernews**.
+mme musicienne sinteresse au pen-test et cree une fausse IA ou on peut calculer quelque chose , traduire quelque chose, ou prendre le metro ou un moyen de transport en commun, choisir un langage de programmation et ecrire le début d'un script.
 
 ### Les Rumeurs du Bureau Ovale
 
