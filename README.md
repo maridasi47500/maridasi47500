@@ -78,6 +78,9 @@ mme et mr classical pop sont venus chercher la violoniste jusqua son domicile a 
 C'est alors qu'intervient l'anomalie (**bookish-cruel-love**). Devant un stand de brocante en France, une vidéo générée par une IA ouvre une faille vers un monde parallèle : un parc d'attractions américain déformé. Ce portail les connecte à la *République de l'Amour Cruel*, un univers calqué sur la pop culture des USA où le couple "Monsieur et Madame Parfait" (**Mr et Mme Classical Pop**) utilise la musique classique comme une arme brute pour remodeler les consciences de leur audience.
 
 **mme et mr classical pop** commencent par sinscrire a lecole de musique locale et diffuser des rumeurs comme quoi apprendre a se connaitre est long parfois. cest leur premiere tentative de se rendre bien sur scene (**performing-arts**, **make-up-faker**)
+
+mme et mr classical pop voudraient passer a la tele. ils retournent a la television ou ils font passer mme musicienne en priorite avec eux. ils participent a unz ewperience de chat IA iu ils veulent determiner la suite de leurs voyages, si ce sera plus ou moins cool. il passent a la tele dans une ville de disco ou est traduit en direct dans un playeau pour en dire plus.
+
 Ensuite commence le voyage en train/bus pour quoi ils ont "signé".
 Ils documentent tout. Via un blog urbain (**city-blogger**), ils écrivent sur leurs instruments et leurs moyens de transport. Ils basculent dans une aventure permanente (**out-of-the-morning-adventure**), guidés par la météo et une IA locale. Ils convertissent leurs maquettes via **yt-mp3** et lancent la **tournee-coeur-ouvert** pour secouer le public jusqu'à ce qu'il aime le classique.
 
