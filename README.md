@@ -87,6 +87,9 @@ mme et mr classical pop sont venus chercher la violoniste jusqua son domicile a 
 En France, **la Violoniste** se prépare. Avant de se consacrer pleinement à son art, elle passe un test pour devenir gendarme (**gendarmes**). 
 
 > **Le Grand Tournant :** C'est à cet instant précis, à l'aube, que le destin s'accélère. Les trois personnages — la Violoniste, Mme, et Mr Classical Pop — doivent signer un pacte virtuel pour quitter définitivement leurs foyers respectifs et s'engager vers le **"Pays de la Musique"**, un territoire imaginaire et mystique où les lois physiques sont remplacées par des lignes de partitions, et les transports en communs sont collectifs.
+> dans la gare, mme musicienne fait un tour de cirque comme sur une piste de danse avec sob instrument de musiuqe et sa gideo gagnes de la popularite sur internet.(my-arts)
+>  
+> 
 > 
 C'est alors qu'intervient l'anomalie (**bookish-cruel-love**). Devant un stand de brocante en France, une vidéo générée par une IA ouvre une faille vers un monde parallèle : un parc d'attractions américain déformé. Ce portail les connecte à la *République de l'Amour Cruel*, un univers calqué sur la pop culture des USA où le couple "Monsieur et Madame Parfait" (**Mr et Mme Classical Pop**) utilise la musique classique comme une arme brute pour remodeler les consciences de leur audience.
 
@@ -110,8 +113,9 @@ un developpeur rails montre a mr classical pop comment il peut  chosse his elect
 
 ### Le Conflit Géopolitique du Salon (**special-giggle**)
 apres cette periode , la violoniste veut se rendre au pays de la musique pour prendre ses distances et une pause des aventures mais mme classical pop veulent la rejoindre a letranger, et apres quelque bonne periode , sen suit une periode difficile.
+mme classical pop commence a regarder comment elle peut faire de lingenieriie sociale 
 mme et mr classical pop et mme musicienne essaient  deja (**out-of-home-chat**) de jouer un reknown band chatting over a city.
-mme classical pop decouvre digital content AI discovery vs not A.I. : manual sorting, organic experience, manual search (amazon-discovery)
+
 au debut, mme musicienne tient un social-media-cook-book pour comprendre ce qui se passe sur les reseaux sociaux.
 mme classical pop commencer deja outil de simulation d'actualités basé sur l'IA, capable de croiser des données (personnes, lieux, objets) pour générer des scénarios médiatiques et les filtrer finement dans le temps pour deviner ce qui va se passer selon les futur evenements.
 mme classical pop veut se tranforme en sportsperso  , o musician, ou singer on tv, actor model, in hit music, or tv video, that says gossip (actor-model-gossip), mme classical pop selectionne des identites numeriques dans son quartier et envoie un trip digital guide, ou elle jouerait un social facilitator, pour demander a qui sindceit quel voyage font de toi un amazon (qu'as-tu dans tes "trips' (voyages) ou "tripes" (gust)) (amazon-trips).
