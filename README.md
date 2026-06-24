@@ -8,7 +8,7 @@ L'aventure commence précisément à l'aube, au moment où la lumière blafarde 
 
 ### 🏙️ city-expedition
 
-L'histoire s'ouvre simultanément sur deux continents. En France, dans sa ville d'habitat, une talentueuse **Violoniste** prépare ses partitions numériques. De l'autre côté de l'Atlantique, aux États-Unis, **Mme et Mr Classical Pop** planifient leur départ depuis leur propre métropole. Ils cherchent à lier leurs destins à travers une expédition urbaine.
+L'histoire s'ouvre simultanément sur deux continents. En France, dans sa ville d'habitat, une talentueuse **Violoniste** prépare ses partitions numériques dans une ville avec des affichages put if home (out-pf-hpme-city). elle a beaucoup de hobbies (hobbies-do-it-yourself). De l'autre côté de l'Atlantique, aux États-Unis, **Mme et Mr Classical Pop** planifient leur départ depuis leur propre métropole. Ils cherchent à lier leurs destins à travers une expédition urbaine.
 
 
 ### Le Croisement des Destins (USA)
@@ -19,6 +19,7 @@ Pendant ce temps, de l'autre côté de l'Atlantique, aux USA, habitent **Mme et 
 ### premiere arrivee
 
 apres la premiere arrivee de **mme et mr classical pop** dans la capitale de la France, il y a deja des rumeurs sur un album qui va sortir ou la reputation sur les reseaux sociaux (**bangtan-news**) mais ca ne predit rien pour l'avenir.
+
 
 ### voyage en bateau
 
@@ -31,6 +32,8 @@ mr classical pop publie dans potential invention verse.
 
 mme musicienne bookmark ce que elle aimes, epingle le dans la page d'accueil, recois/envoie sms/appel telephonique/email de tes bookmarks (moments partagés en photo, art local, repas partagés).
 Se lançant dans une véritable expédition urbaine (**city-expedition**), elle se comporte comme un oiseau du matin, hackant symboliquement sa ville d'origine grâce aux transports en commun de l'aube au crépuscule. Pour se protéger en ligne, elle crée un web-crawler à son image, programmé selon ses goûts musicaux. Elle décide de quitter son foyer (**out-of-home**), observant les affichages publicitaires sur les bus, munie d'une fausse carte d'identité et d'un faux job de couverture.
+un codeur rails et python revele sur le web le back end (les secrets) d'habitant - voyageurs qui ont 2 mode de voyage : python (comme un animal de la nature, day 2 day travel qui voyage au jour le jour) or rails (comme un mode de transport que tu dois reserver, tout voyage, et que ru recherche la celebrite pendant une tournee. mme musicienne voyage plus au jour le jour et mme classical pop comme si elle recherche la celebrite.
+
 Pour survivre dans l'industrie, ils utilisent un tracker de nuit (**disco-tracker**) en France, réinventant complètement leurs personnalités : une nationalité différente le jour, un style purement disco la nuit, changeant même leurs plats préférés selon le rythme des hits. mme et mr classical pop publie ai-digital-guide-partying. ils decouvrent de la musique et set themselves et set path and conbections (life-set)
 
 
@@ -91,7 +94,7 @@ apres cette periode , la violoniste veut se rendre au pays de la musique pour pr
 mme classical pop decouvre digital content AI discovery vs not A.I. : manual sorting, organic experience, manual search (amazon-discovery)
 au debut, mme musicienne tient un social-media-cook-book pour comprendre ce qui se passe syr les reseaux sociaux.
 
-
+mme classical pop se tranforme en sportsperso  , o musician, ou singer on tv, actor model, in hit music, or tv video, that says gossip (actor-model-gossip)
 a letranger, mme classical pop veut accueilir des musiciens dans son pays (le pays de la musique) et trouve un premier job au bureau daccueil. mme classical pop cree une serie fake sms email, postcard, social media acount, letter, etc, in foreign/not foreign language pour de preparer a deranger le quartier (i18n-fake-sms).
 
  mme classical pop cree un **amazon-cafe** ou elle veut Text Sentiment & Gender Reference Analyzer pour tout ce qu'elle voit que les gens postent sur les reseau.
@@ -117,7 +120,7 @@ Cette longue période à l'étranger s'avère la plus sombre et la plus complexe
 
 Pour tenir le coup, la Violoniste tient un journal de bord anonyme (**bulletproof-anonymous**) où elle planifie ses sessions d'entraînement intensives. Sur son blog, mme classical pop publie des articles sur le *« inner game »* de la musique (**mon-musicien-pareballes**). Elle utilise Lilypond (**stage-score**) pour générer ses partitions et pousse le vice jusqu'à étudier les langages informatiques sécurisés utilisés par la **nasa**.
 
-Le trio voyage avec ses instruments (**musical-instrument-travel**), participe à des compétitions d'endurance (**sport-competition**) et mme classical pop et la Violoniste devienne des véritable sprinteuse du violon (**runner-fiddle**), enchaînant des morceaux d'une difficulté athlétique de capitale en capitale.
+trois musiciens voyage avec ses instruments (**musical-instrument-travel**), participe à des compétitions d'endurance (**sport-competition**) et mme classical pop et la Violoniste devienne des véritable sprinteuse du violon (**runner-fiddle**), enchaînant des morceaux d'une difficulté athlétique de capitale en capitale.
 
 ### L'Usine du Prestige
 
