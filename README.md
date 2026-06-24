@@ -51,7 +51,7 @@ Le violon se transforme en un capteur sensitif, un véritable **diapason-crystal
 
 
 
-mme musicien poste sue un blog comme si elle utilise un practice bullet pen, elle utilise la gem faker sur  rails, elle poste sur des animal zoo, travel mmountain, cartoon, quelle a deja vus. elle liste les vpn, tor, appareil connexion, quelle connait et qui vont servir pendant tous les voyages. elle i tegre un social network avec un amzon english detector (detecte si tes' une fille/un garcon qui parle anglais pu pas), un translator, des ais working at summary, voir qui a un job au pays de la msuique.
+mme musicien poste sue un blog comme si elle utilise un practice bullet pen, elle utilise la gem faker sur  rails, elle poste sur des animal zoo, travel mmountain, cartoon, quelle a deja vus. elle liste les vpn, tor, appareil connexion, quelle connait et qui vont servir pendant tous les voyages. elle i tegre un social network avec un amzon english detector (detecte si tes' une fille/un garcon qui parle anglais pu pas), un translator, des ais working at summary, voir qui a un job au pays de la msuique.(amazon-rails-gem)
 Pour survivre dans l'industrie, ils utilisent un tracker de nuit (**disco-tracker**) en France, réinventant complètement leurs personnalités : une nationalité différente le jour, un style purement disco la nuit, changeant même leurs plats préférés selon le rythme des hits. 
 (behind-scenes) mme et mt classical pop publient sur des comptes @weArefakesocialaccount et @we are bulletproof des videos de musique avec des faux credits ou il font la fete.
 mme classical pop raconte qu'elle est agile comme une developpeuse ou qu'elle a du caractere comme le fromage de France ou comme un air de musique.
@@ -222,5 +222,6 @@ L'histoire s'achève sur un dernier éclat de rire théâtral et ironique de **M
 une fois toutes les histoires terminees, la musicienne utilise **alexa-python-pour-jouer** avant de quitter le pays de la musique et commencer a jouer de la musique soi meme.
 cest une sorte de capsule temporelle : quisait qui sera celle-celui qui pourra apprendre les bases du reseau et reconstituer le reseau de personnes (**networking-network**)
 **airbnb-network-experience** est une autre capsule ttemporelle. que fais tu si tu sais un peu les mots du reseau, programmation, les scripts reseau et que rien tarrete ?
+**mountain-gem** un peu comme une capsuleremporelle, qui est celle-celui qui a fait beaucoup de sport pour elporter seulement 1 souvenir?
 
 ---
