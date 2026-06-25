@@ -60,7 +60,9 @@ mme musicienne cherche  comment hacker une voiture electrique, un iphone, video 
 mme etle classical pop recoivent recoit phising in email, amendes, tous les phisihng, banque, service des impôts, CAF,coordonne bancaire, logo et le nom de cet organisme.
 mme musicienne decide quelle voudrait aller plus tard au pays du coeur, memore ou emotion, behind scenes of dy namics, bpm, rythme, expression markings, sur instagram.
 les musiciens commencent deja a pluvork se maquiller pour la scene (make-up-faker). dans un blog, mme musicienne ecrit sur des digital identity weak or strong, warn several posts' harm, ecrit cybertip.
-mr classical pop cherche a génèrer une "route" (un itinéraire de vie ou de voyage) totalement unique et éphémère grâce à une IA. (ai-digital-parameter-gps)
+mr classical pop cherche a génèrer une "route" (un itinéraire de voyage) totalement unique et éphémère grâce à une IA. (ai-digital-parameter-gps) .
+Dans la ville de départ , il y a des fausses radios où mr classical pop répond aux interviews à la radio, et où il rentre en compétition avec des artistes qui ont un faux Artist ID sur les radios. (ai-experience-artist-id)
+Mme classical pop est **half-a-medium** , elle visualise beaucoup de gens et des informations sur les gens la nuit, et connait un grand réseau de gens pour savoir qui fait quoi, qui parle à qui.
 on pose un challenge a mme et mr classical pop : challenge en 24h ou de l'aube au crepuscule d'utiliser des transport avec le gps, publier photos , publier des sport quotes, publier des tweet avec le sport hashtag , aller à la disco, travel (disk-till-dawn-out-of-home) 
 
 
@@ -183,13 +185,16 @@ mme classical pop et la Violoniste devienne des véritable sprinteuse du violon 
 Mme classical pop et mme musicienne commence a se dmander quel sport tu prefere faire , quelle quote preferes tu, à propos d'un sport, quelle quote astu moins de difficulte par rapport à un autre sport/une autre personne à représenter/ à correspondre (sport-job).
 
 
-Partout à l'étranger, le visage de la mme et mr classical pop est placardé sur les murs (**out-of-home-face**). Ils pirate des partitions en direct pour saboter des concerts concurrents (**score-live-concerto**), étudie la résonance de leur instrument (**violin-study**) et inscrivent la violoniste comme interprète aux Nations Unies (**un-interpreter**). Sur l'**echo-stage**, propulsé par des profils générés par IA, ils deviennent des *World Class Performers*. 
+Partout à l'étranger, le visage de la mme et mr classical pop est placardé sur les murs (**out-of-home-face**). 
+Dans la ville dy pays de la musique, il ya beaucoup d'affichages dehors et mme musicienne a une fausse carte d'identité et un faux métier (une double vie) , elle est web designer en python(animated-broccoli).
+
+Ils pirate des partitions en direct pour saboter des concerts concurrents (**score-live-concerto**), étudie la résonance de leur instrument (**violin-study**) et inscrivent la violoniste comme interprète aux Nations Unies (**un-interpreter**). Sur l'**echo-stage**, propulsé par des profils générés par IA, ils deviennent des *World Class Performers*. 
 dans le pays de la musique, **mme classical pop** se prépare. Avant de se consacrer pleinement à son art, elle passe un test pour devenir gendarme (**gendarmes**).
 
 ### La République de l'Amour Cruel
 
 Ils finissent par basculer dans la **republic-of-music**, un territoire sans frontières géré par les émotions, devenant les tyrans bienveillants des sentiments de leur public. Connectés par leurs téléphones portables comme un orchestre numérique (**supreme-symphony**), chaque requête HTTP qu'ils envoient devient une note de musique, chaque trajet un raccourci de Apple.
-
+Mme musicienne va à la gum , and au training center quand connectée, pour plus tard voyager (**amazon-academy**)
 mme classical pop emmene mme musicienne au port via un raccourci apple, pour lui montrer un magasin. mme classical pop a beaucoup d' Information about country/regions d'un pays pour commencer un nouveau magasin ou une nouvelle entreprise (info-country)
 
 mme classical pop utilise la master-connection pour localiser un telephone.
