@@ -292,7 +292,11 @@ a letranger mme musicienne toent un cookbook de llm ou ai.
 a l'etranger mme classical pop tient un **bullet-blog** public sur la musique, son carnet perso piur la musique (**bulletproof-anonymous**) et une formation de musique (**beyond-practicing-buro**)
 a l'etranger , mme classical pop databases qui se crée à chaque billet d'avion , une entreprise differente/un projet different, un base de données entiere differente pour  5 ou 6 billets aller retour.
 * la musicienne organisent un faux discours à l'ONU, déclamé en plusieurs langues étrangères, pour tenter d'apaiser leurs querelles.
-* Ils se disputent symboliquement avec d'autres pays, transformant leur propre salon en un **Bureau Ovale** miniature, prétendant être l'horloge politique et culturelle du quartier.
+* Ils se disputent symboliquement avec d'autres pays, transformant leur propre salon en un **Bureau Ovale** miniature, prétendant être l'horloge politique et culturelle du quartier. Leur salon a des violons suspendu au mur, des portrait photo d'eux en grand, une grande horloge, la grande carte d'un pays ou ils se croient etre une differente.
+* Une alerte qui les a particulierement marqués est qu'ils doivent activer des alerte pour vivre au rythme d'un QG, et jouer de la musique.
+* Mme musicienne devient un repere humain. En découvrant le QG, elle a pas de réactions, mais elle découvre que la situation est très tendue, elle se prépare à une periode difficile.
+* Elle va habiter avec Mme etM classical pop pendant cette periode, ils verront si cette periode est "vivable".
+* 
 * **Mme Classical Pop**, quant à elle, travaille en chœur exclusif avec d'autres artistes féminines, créant une tension compétitive acharnée.
 
 
@@ -305,49 +309,62 @@ Cette longue période à l'étranger s'avère la plus sombre et la plus complexe
 
 ### Le Jeu Intérieur de la Musique
 
-Pour tenir le coup, la Violoniste tient un journal de bord anonyme (**bulletproof-anonymous**) où elle planifie ses sessions d'entraînement intensives. Sur son blog, mme classical pop publie des articles sur le *« inner game »* de la musique (**mon-musicien-pareballes**). Elle utilise Lilypond (**stage-score**) pour générer ses partitions et pousse le vice jusqu'à étudier les langages informatiques sécurisés utilisés par la **nasa**.
+Pour tenir le coup, la Violoniste tient un journal de bord anonyme (**bulletproof-anonymous**) où elle planifie ses sessions d'entraînement intensives(du cardio et de lamusculation, abdos, pompes, dips).  un extrait de ce journal : "aujourdhui j'ai fait 30 minutes de velo".. Sur son blog, mme classical pop publie des articles sur le *« inner game »* de la musique (**mon-musicien-pareballes**) (par exemple il faut utiliser la visualisation mentale que les images sont vive. pour son premier concert avec mme classical pop, elle allait tout gacher, mais pour la deuxieme partie elle a mieux fait en visualisant. Elle utilise Lilypond (**stage-score**) pour générer ses partitions et pousse le vice jusqu'à étudier les langages informatiques sécurisés utilisés par la **nasa** (python) . La nasa l'inspire depuis qu'elle a voyagé dans des pays étrangers.
 
-trois musiciens voyage avec ses instruments (**musical-instrument-travel**), participe à des compétitions d'endurance (**sport-competition**) et 
+trois musiciens voyage avec ses instruments (**musical-instrument-travel**), participe à des compétitions d'endurance (**sport-competition**) (elle a gagné la course de 5km une fois en France il ya 10 ans)
 
-mme classical pop et la Violoniste devienne des véritable sprinteuse du violon (**runner-fiddle**), enchaînant des morceaux d'une difficulté athlétique de capitale en capitale.
+
+
+mme classical pop et la Violoniste devienne des véritable sprinteuse du violon (**runner-fiddle**), enchaînant des morceaux d'une difficulté athlétique de capitale en capitale (la gigue de bach est difficile, une ville ou elle ont .
+brillé est paris)
+
 
 ### L'Usine du Prestige
 
-**Mme et Mr Classical Pop** s'allient à elle sur Rails (**mme-m-classical-pop**). Leurs valises de diplomates contiennent des accessoires connectés mesurés en unités internationales (**travel-job-accessories**). Ils entrent dans la **pop-classic-factory**, gérant des comptes secrets (@weArefakesocialaccount) sous de faux noms pour masquer les coulisses de leur gloire (**behind-scenes**).
-Mme classical pop et mme musicienne commence a se dmander quel sport tu prefere faire , quelle quote preferes tu, à propos d'un sport, quelle quote astu moins de difficulte par rapport à un autre sport/une autre personne à représenter/ à correspondre (sport-job).
+**Mme et Mr Classical Pop** s'allient à elle sur Rails (**mme-m-classical-pop**). Leurs valises de diplomates contiennent des accessoires connectés mesurés en unités internationales (**travel-job-accessories**) (la taille de la boite a violon, la taille d'une clé usb). Ils entrent dans la **pop-classic-factory**, gérant des comptes secrets (@weArefakesocialaccount) sous de faux noms (comme Clean Bandits) pour masquer les coulisses de leur gloire (**behind-scenes**). (ils ont évité le scandale d'avoir un peu mal joué dans un concert et d'etre des bandit de la scene)
+Mme classical pop et mme musicienne commence a se dmander quel sport tu prefere faire , quelle quote preferes tu, à propos d'un sport, quelle quote astu moins de difficulte par rapport à un autre sport/une autre personne à représenter/ à correspondre (sport-job) (you don't fight against opponent, but against the game of basketball)
+
+.
 
 
-Partout à l'étranger, le visage de la mme et mr classical pop est placardé sur les murs (**out-of-home-face**). 
-Dans la ville dy pays de la musique, il ya beaucoup d'affichages dehors et mme musicienne a une fausse carte d'identité et un faux métier (une double vie) , elle est web designer en python(animated-broccoli).
+Partout à l'étranger, le visage de la mme et mr classical pop est placardé sur les murs (**out-of-home-face**) (la tete de mme classical pop en gros plan sur un gros panneau avec ecrit concert de violon le mois prochain). 
+Dans la ville dy pays de la musique, il ya beaucoup d'affichages dehors et mme musicienne a une fausse carte d'identité et un faux métier (une double vie) (Sunya Nonyme) , elle est web designer en python(animated-broccoli).
+ELle code le site d'une école de musique.
 
-Ils pirate des partitions en direct pour saboter des concerts concurrents (**score-live-concerto**), étudie la résonance de leur instrument (**violin-study**) et inscrivent la violoniste comme interprète aux Nations Unies (**un-interpreter**). Sur l'**echo-stage**, propulsé par des profils générés par IA, ils deviennent des *World Class Performers*. 
+
+Ils pirate des partitions en direct pour saboter des concerts concurrents (**score-live-concerto**), étudie la résonance de leur instrument (**violin-study**) et inscrivent la violoniste comme interprète aux Nations Unies (**un-interpreter**). 
+Mme classical pop est entré sur une scene à la fin du spectacle pour dire que la violoniste avait piraté des partitions sur le web avec des annotations pour savoir jouer.
+
+Sur l'**echo-stage**, propulsé par des profils générés par IA, ils deviennent des *World Class Performers*. 
 dans le pays de la musique, **mme classical pop** se prépare. Avant de se consacrer pleinement à son art, elle passe un test pour devenir gendarme (**gendarmes**).
 
 ### La République de l'Amour Cruel
 
 Ils finissent par basculer dans la **republic-of-music**, un territoire sans frontières géré par les émotions, devenant les tyrans bienveillants des sentiments de leur public. 
-pendant les voyages il y a des controles musicaux aux frontieres (musical-border-control)
+par exemple se sentir content/gentil quand on entend de la musique classique. UN rituel musical est de jouer de la musique. 
+pendant les voyages il y a des controles musicaux aux frontieres (musical-border-control) (boite d'instrument de musiqie, disque, dvd de concert, album disque, musique sur mp3).
 
 
-Connectés par leurs téléphones portables comme un orchestre numérique (**supreme-symphony**), chaque requête HTTP qu'ils envoient devient une note de musique, chaque trajet un raccourci de Apple.
-Mme musicienne va à la gum , and au training center quand connectée, pour plus tard voyager (**amazon-academy**)
-mme classical pop emmene mme musicienne au port via un raccourci apple, pour lui montrer un magasin. mme classical pop a beaucoup d' Information about country/regions d'un pays pour commencer un nouveau magasin ou une nouvelle entreprise (info-country)
+Connectés par leurs téléphones portables comme un orchestre numérique (**supreme-symphony**), chaque requête HTTP qu'ils envoient devient une note de musique, chaque trajet un raccourci de Apple. Une mélodie HTTP est comme si chacun fait son métier/sa vie.
+
+Mme musicienne va à la gum , and au training center quand connectée, pour plus tard voyager (**amazon-academy**)(abdos, dips, pompes, barre, cardio velo, course, nager)
+mme classical pop emmene mme musicienne au port via un raccourci apple, pour lui montrer un magasin de vetements. mme classical pop a beaucoup d' Information about country/regions d'un pays pour commencer un nouveau magasin ou une nouvelle entreprise (info-country)
 
 mme classical pop utilise la master-connection pour localiser un telephone.
-mr classical pop utilise **cyber-hacker** pour savoir si ses videos ont un bon commentaire.
-mme classical pop commence a envoyer des series de **spoof-messages**  et a connaitre de la **physical-security** et de la **cyber-security**. elle poste dans **bulletproof-job**, **hacker-magazine** et **mycybernews**.
+mr classical pop utilise **cyber-hacker** pour savoir si ses videos ont un bon commentaire (il a eu "well done").
+mme classical pop commence a envoyer des series de **spoof-messages** (comme "who's unstoppable here? me not you. Do you know me , my name is Mrs Classicla pop. Await my visit." à plusieurs numeros de téléphone du quartier. des gens ont eu peur et ont attendu la visite de mme classical pop, en ont parlé autour, ont contacté mme classical pop pour l'inviter) et a connaitre de la **physical-security** et de la **cyber-security**. elle poste dans **bulletproof-job**, **hacker-magazine** et **mycybernews**.
 mme musicienne sinteresse au pen-test et cree une fausse IA ou on peut calculer quelque chose , traduire quelque chose, ou prendre le metro ou un moyen de transport en commun, choisir un langage de programmation et ecrire le début d'un script.
 
 ### Les Rumeurs du Bureau Ovale
 
-**republic of music and love** : au pays de la musique a letranger, la periode qui suit est difficile comme mme et mr classical pop emploient beaucoup de moyens pour diffuser des rumeurs ou rester tres influents dans leur region et qui remontent jusquau **bureau ovale**. tous les musiciens de la region traversent une periode intense de pratique musicale, sportive ou autre activite de son job en plus de la gestion du foyer.
-mme musicienne est une femme passionnée par le mouvement, la performance et la technologie. Pour moi, être “fit”, c’est autant une question de muscles que de neurones. (amazon-ai)
+**republic of music and love** : au pays de la musique a letranger, la periode qui suit est difficile comme mme et mr classical pop emploient beaucoup de moyens pour diffuser des rumeurs ou rester tres influents dans leur region et qui remontent jusquau **bureau ovale** (m classical pop a été hacké dans son bureau). tous les musiciens de la region traversent une periode intense de pratique musicale, sportive ou autre activite de son job en plus de la gestion du foyer (il faut se lever aller a son travail et attendre la visite de mme classical pop le soir, gerer le foyer, etc.).
+mme musicienne est une femme passionnée par le mouvement, la performance et la technologie. Pour moi, être “fit”, c’est autant une question de muscles que de neurones. (amazon-ai) (unexercice mental qu'elle pratique est to fit a model, machine learning)
 
 ### retour en france
 
-- passee cette periode, un retour en France se fait pour calmer les tensions apres une periode difficile. mme et mr classical pop n'en sont plus a faire valoir leur premier concert ou faire augmenter la celebrite mais on leur a dit de retourner a lecole de musique pour calmer le jeu.
+- passee cette periode, un retour en France se fait pour calmer les tensions apres une periode difficile. mme et mr classical pop n'en sont plus a faire valoir leur premier concert ou faire augmenter la celebrite mais on leur a dit de retourner a lecole de musique pour calmer le jeu. Les Français entendent les derniere rumeur (apres m classical pop,  mme classical pop est hacké dans son bureau, et ca vient a mme musicienne)
 - mme et mr classical pop essaient encore de gagner de la popularite en France.
-- de plus en plus proche dans la cohabiration avec mme et me classical mme musicienne tient une base de donnes wiht composer, stylle o music, piece title, and album with artist and title of track but she will choose a hobby (science, clothes,)other than music.
+- de plus en plus proche dans la cohabiration avec mme et me classical mme musicienne tient une base de donnes wiht composer, stylle o music, piece title, and album with artist and title of track but she will choose a hobby (science, buy clothes,programming )other than music.
 
 - 
 
@@ -355,27 +372,29 @@ mme musicienne est une femme passionnée par le mouvement, la performance et la 
 
 - il reste une derniere fois ou mme et mr classical pop, et la 3e musicienn est allee au pays de la musique. Cetait pour dire quelle nirait plus au meme cafes, parc, ou endroits publics avec autant de paparazzis.
 mme etmr classical pop sont toujours de touriste qui ont un gps, photo appareil, microphone, qui peuvent send email, faire des photos de ton village,  prends le velo ou voiure, mais il s detruisent toute leur donnees de voyage.
-  (commit-rails)
+  (commit-rails). Elle abandonne là ou elle s'est promenée, là ou elle a joué, etc.
+  
 
   mme et mr classical pop sont devenus des musicien qui navigue entre 2 mondes : la musique (orchestre, musique de chambre, concerto, performance), le réseau et l’informatique (orchestration de conteneurs (network-musician)
   
+  M classical pop fait un spectacle ou de la musique de betthoven joue comme si c'est sa musique do'rigine, il se tient a la régie, , il dit je suis t. r.a.z.o.m ... mozart  et il disparait dans la fumée ).
 ###  Les Rumeurs du Bureau Ovale Francais
 
-L'histoire se clôture par un retour technologique et politique en France à travers la **symphonie-foyers**. Tout le monde se met à coder en Symfony/PHP pour alimenter la partition numérique de la nation, sous la direction d'un mystérieux *Chef d'Orchestre* qui gère le réseau et propage des consignes secrètes.
+L'histoire se clôture par un retour technologique et politique en France à travers la **symphonie-foyers**. Tout le monde se met à coder en Symfony/PHP pour le réseau des musiciens cnonectés, sous la direction d'un mystérieux *Chef d'Orchestre* qui gère le réseau et propage des consignes secrètes.
 Mme musicienne a maintenant un meilleur musician-mindset.
 À cause de failles de sécurité et de bavardages interceptés (**symphonie-foyers**), des rumeurs massives commencent à enfler dans les rues. Ces bruits de couloir, colportés par le protocole de la symphonie, affirment qu'un album révolutionnaire et secret va détruire les codes de la musique pop. La tension est telle que les murmures quittent les salons de musique pour atterrir directement sur le bureau du Chef de l'État, au sein même du **Bureau Ovale de la République Française** (l'Élysée).
 
-L'histoire s'achève sur un dernier éclat de rire théâtral et ironique de **Mme et Mr Classical Pop** (**special-giggle**), fiers d'avoir transformé l'industrie musicale et la haute diplomatie en leur propre opéra privé. la virtuose **Violoniste** (basée en France), et le couple d'influenceurs excentriques, **Mme et Mr Classical Pop** (basés aux États-Unis)sont reunis en France.
+L'histoire s'achève sur  **Mme et Mr Classical Pop** (**special-giggle**), fiers d'avoir transformé l'industrie musicale et la haute diplomatie en leur propre opéra privé. la virtuose **Violoniste** (basée en France), et le couple d'influenceurs excentriques, **Mme et Mr Classical Pop** (basés aux États-Unis)sont reunis en France.
 
-une fois toutes les histoires terminees, la musicienne utilise **alexa-python-pour-jouer** avant de quitter le pays de la musique et commencer a jouer de la musique soi meme.
+une fois toutes les histoires terminees, la musicienne utilise **alexa-python-pour-jouer** avant de quitter le pays de la musique et commencer a jouer de la musique soi meme. le programme dit une blague, fait le bruit d'un animal et joue à la boule de brystal.
 mme musicienne sent que The World Is the Scene (the-world-is-the-scene) pendant un sejour lumineux sans soucis.
 
-mme musicienne vit sous le toit ideal (ideal-roof) un toit damour, dansune ville ouverte.
+mme musicienne vit sous le toit ideal (ideal-roof) un toit damour, dansune ville ouverte. pas de pression, il y a de la musique et de l'amour sous ce toit. 
 
 Le jour, la ville s’étend comme un monde sans limites. Il n’y a pas de pays, pas de barrières, pas de lignes imaginaires. Juste des rues, des places, des gens, des histoires. (borderless-city)
-les aventures sontfinies, les reseau sociaux ne sont pas finis , une autre vie est dans leur plan (congenial-soxial-media) mme musicienne ne "scanne" pour ne plus apparaitre pareil sur scene, sur les photos, etc.
+les aventures sontfinies, les reseau sociaux ne sont pas finis , une autre vie est dans leur plan (du social media, mais discret ou absent) (congenial-soxial-media) mme musicienne ne "scanne" pour ne plus apparaitre pareil sur scene, sur les photos, etc.
 
-cest une sorte de capsule temporelle : quisait qui sera celle-celui qui pourra apprendre les bases du reseau et reconstituer le reseau de personnes (**networking-network**)
+cest une sorte de capsule temporelle : quisait qui sera celle-celui qui pourra apprendre les bases du reseau et reconstituer le reseau de personnes (**networking-network**) (elle laisse dans la capsule, qui elle connait, ou quel est le battement d'aile du papillon)
 **airbnb-network-experience** est une autre capsule ttemporelle. que fais tu si tu sais un peu les mots du reseau, programmation, les scripts reseau et que rien tarrete ?
 **mountain-gem** un peu comme une capsuleremporelle, qui est celle-celui qui a fait beaucoup de sport pour elporter seulement 1 souvenir?
 
