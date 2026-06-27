@@ -129,6 +129,15 @@ Mme musicienne veut creer An experimental fusion app for self-setting, explorati
 Le voyage commence par un aller-retour intense entre la France et l'étranger, étalé sur une à dos d'années.
 
 ### Racines Humbles et Identités Multiples
+mme classical pop, malgrér son statut de star, garde des racines humbles. ELle a grandi dans un famille de musique.
+ELle a développé une capacité à jongler entre plusieurs identités numériques, utilisant des avatars pour différentes facette de sa personnalité. ELle a grandi dans un quartier riche, elle a appris le violon.
+ELle a commencé à créer des avatars pour pouvoir influencer plus de gens autour d'elle. Par exemple, un avatar de violon spécialement pour constituer un réseau de musicienne (musicien) plus de musicienne.
+M Classical pop a toujours été fasciné par les systèmes, structures et réseaux. Il a grandi dans une famille ou la technologie etait reine il a appris a coder avant de savoir lire. Il a d'abord appris python.
+Il a rencontré Mme classical pop à l'école.
+Un moment ou leur duo a failli se briser est pour etudier la musique.
+un moment ou leur duo a brillé et quand ils commencent à gagner de la popularité.
+
+
 
 mme et mr classical pop sont venus chercher la violoniste jusqua son domicile a laube avant de commencer laventure. Ils s'installent d'abord dans des habitations modestes appelées "Crevé-Cœur" (**heartbreaking-housing**). Là, ils côtoient des métiers simples — boulangers, jardiniers, potiers — dont les gestes nourrissent leur inspiration. Le voyage les mène le long des côtes maritimes, intégrant les bruits des vagues et des ports à leurs compositions.
 
@@ -170,9 +179,13 @@ mme et mr classical pop connaisse des **cyber-traveler** : cyber star qui ont da
 >
 > mme musicienne veut faire choreography in AI : il y a une choreography d'IA. (l'IA qui fait beaucoup de calculs) et une choreography d'humain. (computing-machine-ai-choreography, potential-ai-sportsperson)
 >
+mme et m classical pop ecrivent dans leur blog appelé Mme et M classical pop une confession cryptée qu'ils deviendront les musiciens indestructible dans la France entiere. ils signent toujours nous sommes des musiciens indestructibles.
+mais leur succès attire l'attention des hackers (anonyme), agences de communication, fans obsessionnel et gouvernement curieux (France et USA) quand il ont publié une video ou il chantent pnous sommes les musiciens indestructible et la vidéo a eu beaucoup de vues.
+pour échapper à cette surveillance, il publient depuis des lieux improbables (supermarché, parc, restaurant, bibliotheque, hotel, bus, train,toilette d'aeroport, toilette publique), changer constamment d'idetité, utiliser des VPN en cascade, brouille le pistes. Une identité particulierement etrange est quand mme classical pop a le metier de sportif professionnel /entraineur dans un poste.
+
 
 > 
->
+
 pour mr classical pop, the most important product, idea, building for a company est son instrument de musique (flag-ship-company).
 mme classical pop sait comment hacket une oartition et regarder un concerto sur une video (score-live-concerto).
 >  
@@ -223,7 +236,7 @@ mme classical pop travaille dans une Boutique HTML contextuelle avec IA "Social 
 au debut, mme classical pop propose a qui veut de choisir entre une pop star ou une amie a inviter au pays de la musique, apres quoi une fille peut voyager dans un endroit au choix (en train).( commit-rails)
 mme musicienne pourrait s'appeler **madame-http**, elle connait les request 404, 500, etc, et les programming langages differences (les langages informatique utilisent des composants materiels differents).
 mme classical pop collectionne les articles de musique tendances (bookish-trend-music-article)
-mme musicienne promener dans un carousel de perspectives, une collection de photos, ou un quartier virtuel, où chaque donnée est une histoire, chaque image une intention, chaque coordonnée GPS une possibilité. (that-sportsperson)
+mme musicienne promener dans un carousel de perspectives, une collection de photos, ou un quartier virtuel, où chaque donnée est une histoire, chaque image une intention, chaque coordonnée GPS une possibilité. (that-sportsperson). Un simple post comme Mme musicienne devra changer de métier, elle ne savait pas jouer ça, a fait un chos médiatique.Des IA, agences, fans tentent de les analyser.
 
 mme classical pop commence a regarder comment elle peut faire de lingenieriie sociale (learn-how-to-be-a-social-engineer) et commence a sinteresser au sport (sport-competition). elle tient un compte de photos de sport (basketball-team) ou elle publie des photos en train de faire des photos, donner des nouvelles/de modifier une information sur elle, ou de dire bonjour dans une photo.
 mme et mr classical pop utilisent World Class Performance est une plateforme révolutionnaire permettant aux artistes, groupes et équipes musicales de publier leurs performances vidéo avec un contrôle total sur leur visibilité (world-class-performers)
