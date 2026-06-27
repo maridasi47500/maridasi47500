@@ -192,7 +192,13 @@ mme classical pop veut participer au concours de generated fake miss AI avec sa 
 mme musicienne commence a ecrire bangtan news er bulletproof-pi ce, le blog dune groupe de musique.
 
 
-mme classical reussit deja a postuler avec sa voix, des emails et sms pour un job.
+mme classical reussit deja a postuler avec sa voix, des emails et sms pour un job. (postuler-18)
+
+mme musicienne cree une application qui permet de créer des prompts enrichis par des données personnelles, géographiques et culturelles. Il est conçu pour générer des interactions plus naturelles et localisées, notamment pour des agents d’accueil ou des assistants virtuels. (prompt-ai-region)
+
+mme musicienne cree jeu de cartes prédictif : Cartes temporelles : Chaque carte est liée à un timestamp et peut être utilisée pour prédire ou raconter un futur possible (timestamp-oracle)
+
+
 mme et mr classical pop et mme musicienne essaient  deja (**out-of-home-chat**) de jouer un reknown band chatting over a city.
 mme classical pop est un "faux employe" au pays de la musique comme on peut pas l'employer si elle peut si bien hacker la musique. Elle est "hacker"de la musique(amazon-tea)
 
