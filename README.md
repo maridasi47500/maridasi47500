@@ -8,10 +8,11 @@ L'aventure commence précisément à l'aube, au moment où la lumière blafarde 
 
 ### 🏙️ city-expedition
 
-L'histoire s'ouvre simultanément sur deux continents. En France, dans sa ville d'habitat, une talentueuse **Violoniste** prépare ses partitions numériques dans une ville avec des affichages put if home (out-pf-hpme-city). elle a beaucoup de hobbies (hobbies-do-it-yourself). 
-mme musicienne a une ip address,  programme en ruby,  collectionnes des musical labels dans tes données comme des "gems".(foitball-team)
-De l'autre côté de l'Atlantique, aux États-Unis, **Mme et Mr Classical Pop** planifient leur départ depuis leur propre métropole. Ils cherchent à lier leurs destins à travers une expédition urbaine.
-tous les posts de reseau sociaux de mme et me classical pop et mme musicienne sont comme une grande gare de metro ou on peut lire des sport quotes, aller au metro,bus, train, study music, avoir plusieurs fausses identites en ligne.
+L'histoire s'ouvre simultanément sur deux continents. En France, dans sa ville d'habitat, une talentueuse **Violoniste** prépare ses partitions numériques dans une ville moderne avec des affichages out of home (out-of-home-city). elle a beaucoup de hobbies (hobbies-do-it-yourself) comme sport, musique, programmation, voyages. 
+mme musicienne a une ip address,  programme en ruby le langage informatique qu'elle vient d'apprendre,  collectionnes des musical labels comme des labels de music videos populaire ou de chansons qui passe à la radio en ce moment dans tes données comme des "gems".(football-team)
+De l'autre côté de l'Atlantique, aux États-Unis, A Miami, **Mme et Mr Classical Pop** planifient leur départ depuis leur propre métropole. Ils ont un style vestimentaire extravagant. Ils cherchent à lier leurs destins à travers une expédition urbaine. ILs voyagent surtout pour un changement dans leur carrière.
+tous les posts de reseau sociaux de mme et me classical pop et mme musicienne sont comme une grande gare de metro ou on peut lire des sport quotes, aller au metro,bus, train, study music. Mme et m classical pop avoir plusieurs fausses identites en ligne comme leur photo retouchée , sur un compte et des choses qu'il savent pas faire sur un compte artistique, ou  des faux compte artistiques liés à l'espionnage. Les réseau social les plus important dans l'histoire sont facebook, twiter, instagram, twitter, et certains réseaux sociaux de pays étrangers où ils veulent gagner de la popularité.
+
 mme musicienne choose your mode of travel: Mode Description 🧳 Vacation Mode Pack your essentials: lunettes, serviette, maillot. You carry what fits. But the sun, the time, the weather — they travel with you, uninvited and uncontainable. 💻 Programmatic Mode Build a business, a media presence, a digital footprint. (turbo-journey).
 mme musicienne publies sur les réseaux, et l’oracle te permet de prédire :Qui tu pourrais croiser en voyage Si ta publication va marcher Ce qui peut être diffusé à la radio, à la télé, dans les journaux ou sur les plateformes sociales (oracle-media)
 
