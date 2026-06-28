@@ -27,6 +27,10 @@ cest  un Génie (un developpeur rails qui joue un figurant dans lecole de musiqu
 Peu importe la nature de ton vœu (un métier, un toit, un voyage aux USA, passer a la tele), si tu affirmes "Je le veux vraiment", le processus est lancé. Que cela prenne 10 ou 40 ans, la grandeur est au bout du chemin pour ceux qui osent valider leurs rêves, même ceux qui semblent hors de portée. (genius-social-media) Le génie est un peu digital mais il est humain (un développeur rails qui a développé l'application du génie (dans l'histoire) est le génie).
 
 ### Le Croisement des Destins (USA)
+Repere : a larrivee il n'y a pas encore ka revendication cest moi qui joue, jai mal aux diugt, nous sommes indestructible, cest moi qui cree un compte anonyme en ligne. etc. cest a leur deuxieme ou troisieme venue.
+repere : a la toute premiere arrivee in voit seulement lage, le pays, lhumeur,  linstrument de musique/les hobbys, un nom de job.
+repere : a leur dexieme arrivee ils sont incites a des dev sessions from dusk till dawn , ont quelque soucis / rumeurs, puis ils retournent aux usa
+repere : a la troisieme venue il y a des rumeurs a larrivee ils sont indestructible
 
 Pendant ce temps, de l'autre côté de l'Atlantique, aux USA, habitent **Mme et Mr Classical Pop**. C'est le moment critique du **music-at-first-sight** : la Violoniste, en voyage d'étude, croise **mme et mr** dans le même couloir d'un grand bâtiment américain de logements. Ils se croisent sans se rencontrer vraiment. 
 
