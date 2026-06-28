@@ -405,14 +405,14 @@ mme etmr classical pop sont toujours de touriste qui ont un gps, photo appareil,
   mme et mr classical pop sont devenus des musicien qui navigue entre 2 mondes : la musique (orchestre, musique de chambre, concerto, performance), le réseau et l’informatique (orchestration de conteneurs (network-musician)
   
   M classical pop fait un spectacle ou de la musique de betthoven joue comme si c'est sa musique do'rigine, il se tient a la régie, , il dit je suis t. r.a.z.o.m ... mozart  et il disparait dans la fumée ).
-• La Violoniste développe un nouveau mindset : jouer sans pression, jouer simplement de la musique.
+• La Violoniste développe un nouveau mindset : jouer plus de styles de la musique, jouer simplement de la musique.
 • Mme Classical Pop veut devenir gendarme pour faire peur aux gens.
 • Mr Classical Pop se concentre sur le pop et le classique mais surtout le classique.
 
   
 ###  Les Rumeurs du Bureau Ovale Francais
 
-L'histoire se clôture par un retour technologique et politique en France à travers la **symphonie-foyers**. Tout le monde se met à coder en Symfony/PHP pour le réseau des musiciens cnonectés, sous la direction d'un mystérieux *Chef d'Orchestre* qui gère le réseau et propage des consignes secrètes.
+L'histoire se clôture par un retour technologique et politique en France à travers la **symphonie-foyers**. Tout le monde se met à coder en Symfony/PHP pour le réseau des musiciens cnonectés pour participer au meme projet, developper un langage informatique pour trouver un emploi, sous la direction d'un mystérieux *Chef d'Orchestre* qui gère le réseau et propage des consignes secrètes, et represente le bureau ovake francais.
 Mme musicienne a maintenant un meilleur musician-mindset.
 À cause de failles de sécurité et de bavardages interceptés (**symphonie-foyers**), des rumeurs massives commencent à enfler dans les rues.
 cette fois les rumeurs viennent du bireau ovale de france lui meme mais mme et m classical pop ne peut rien y changer.
